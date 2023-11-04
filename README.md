@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="center">Hello Folks 👋, I'm Akshay K Manoj</h1>
 <h3 align="center">👨🏻‍💻 Self-Taught DevOps Engineer</h3>
 <p align="center">
