@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   📫 Email: akshaymanoj.dev@gmail.com
   <br>
   <br>
-  💼 LinkedIn: [Akshay K Manoj](https://www.linkedin.com/in/akshaykmanoj/)
+  💼 LinkedIn: [Akshay K Manoj](www.linkedin.com/in/akshay-k-manoj/)
   <br>
   <br>
   🌐 Portfolio: [Explore Here](https://akshaykmanoj.github.io/portfolio/)
